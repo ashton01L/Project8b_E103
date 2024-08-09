@@ -29,6 +29,6 @@ def words_in_both(string1, string2):
 
     return common_words
 
-common_words = words_in_both("She is a jack of all trades", "Jack was tallest of all")
-# test output: ['jack', 'of', 'all']
-print(common_words)
+# common_words = words_in_both("She is a jack of all trades", "Jack was tallest of all")
+# # test output: ['jack', 'of', 'all']
+# print(common_words)
